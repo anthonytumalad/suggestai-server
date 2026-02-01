@@ -11,8 +11,10 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::table('suggestions', function (Blueprint $table) {
-            $table->foreignId('student_id')->nullable()->change();
+        Schema::create('migrations', function (Blueprint $table) {
+            $table->id();
+            $table->string('migration');
+            $table->integer('batch');
         });
     }
 
@@ -21,8 +23,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::table('suggestions', function (Blueprint $table) {
-            $table->foreignId('student_id')->nullable(false)->change();
-        });
+        Schema::dropIfExists('migrations');
     }
 };

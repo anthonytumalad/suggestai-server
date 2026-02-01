@@ -13,8 +13,12 @@ return new class extends Migration
     {
         Schema::create('suggestions', function (Blueprint $table) {
             $table->id();
-            $table->foreignId('form_id')->constrained('forms')->onDelete('cascade');
-            $table->foreignId('student_id')->constrained('students')->onDelete('cascade');
+            $table->foreignId('form_id')
+                ->constrained('forms')
+                ->cascadeOnDelete();
+            $table->foreignId('student_id')
+                ->constrained('students')
+                ->cascadeOnDelete();
             $table->text('suggestion');
             $table->boolean('is_anonymous')->default(false);
             $table->timestamps();
