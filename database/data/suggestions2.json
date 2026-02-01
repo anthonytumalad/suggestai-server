@@ -1,0 +1,519 @@
+[
+  { "text": "Improve the user interface for easier navigation", "language": "en" },
+  { "text": "Add dark mode for better user experience", "language": "en" },
+  { "text": "Allow users to customize their dashboard", "language": "en" },
+  { "text": "Provide real-time notifications", "language": "en" },
+  { "text": "Make the website mobile-friendly", "language": "en" },
+  { "text": "Improve loading speed of the application", "language": "en" },
+  { "text": "Add a search feature to find records easily", "language": "en" },
+  { "text": "Provide better error messages", "language": "en" },
+  { "text": "Allow exporting data to PDF and Excel", "language": "en" },
+  { "text": "Add user activity logs", "language": "en" },
+  { "text": "Include a help and support section", "language": "en" },
+  { "text": "Improve the login and registration process", "language": "en" },
+  { "text": "Add password recovery option", "language": "en" },
+  { "text": "Make forms easier to fill out", "language": "en" },
+  { "text": "Improve system security", "language": "en" },
+  { "text": "Add multi-language support", "language": "en" },
+  { "text": "Improve the overall design of the system", "language": "en" },
+  { "text": "Add tooltips for better guidance", "language": "en" },
+  { "text": "Allow profile picture uploads", "language": "en" },
+  { "text": "Provide a better onboarding tutorial", "language": "en" },
+  { "text": "Add email notifications", "language": "en" },
+  { "text": "Improve accessibility for disabled users", "language": "en" },
+  { "text": "Add two-factor authentication", "language": "en" },
+  { "text": "Improve data privacy controls", "language": "en" },
+  { "text": "Allow users to reset their passwords easily", "language": "en" },
+  { "text": "Improve form validation", "language": "en" },
+  { "text": "Add user profile editing", "language": "en" },
+  { "text": "Provide analytics and reports", "language": "en" },
+  { "text": "Improve notification system", "language": "en" },
+  { "text": "Allow filtering of records", "language": "en" },
+  { "text": "Improve database performance", "language": "en" },
+  { "text": "Add auto-save feature", "language": "en" },
+  { "text": "Improve UI responsiveness", "language": "en" },
+  { "text": "Add user role management", "language": "en" },
+  { "text": "Provide better documentation", "language": "en" },
+  { "text": "Improve search accuracy", "language": "en" },
+  { "text": "Add keyboard shortcuts", "language": "en" },
+  { "text": "Improve page layout", "language": "en" },
+  { "text": "Allow users to bookmark pages", "language": "en" },
+  { "text": "Improve overall system stability", "language": "en" },
+
+  { "text": "Gawing mas madali ang paggamit ng sistema", "language": "tl" },
+  { "text": "Magdagdag ng dark mode para sa mata", "language": "tl" },
+  { "text": "Pabilisin ang pag-load ng website", "language": "tl" },
+  { "text": "Ayusin ang disenyo ng dashboard", "language": "tl" },
+  { "text": "Magdagdag ng notipikasyon sa mga update", "language": "tl" },
+  { "text": "Gawing mas malinaw ang mga mensahe ng error", "language": "tl" },
+  { "text": "Magdagdag ng search bar", "language": "tl" },
+  { "text": "Payagan ang pag-export ng data", "language": "tl" },
+  { "text": "Ayusin ang sistema ng pag-login", "language": "tl" },
+  { "text": "Maglagay ng tutorial para sa bagong user", "language": "tl" },
+  { "text": "Gawing mas secure ang account", "language": "tl" },
+  { "text": "Magdagdag ng setting para sa profile", "language": "tl" },
+  { "text": "Ayusin ang mga button at layout", "language": "tl" },
+  { "text": "Gawing mas madaling mag-fill out ng form", "language": "tl" },
+  { "text": "Maglagay ng history ng aktibidad", "language": "tl" },
+  { "text": "Ayusin ang mobile view ng website", "language": "tl" },
+  { "text": "Magdagdag ng help center", "language": "tl" },
+  { "text": "Gawing mas user-friendly ang sistema", "language": "tl" },
+  { "text": "Magdagdag ng feedback feature", "language": "tl" },
+  { "text": "Ayusin ang pag-display ng impormasyon", "language": "tl" },
+  { "text": "Magdagdag ng email notifications", "language": "tl" },
+  { "text": "Pahusayin ang privacy ng data", "language": "tl" },
+  { "text": "Maglagay ng two-factor authentication", "language": "tl" },
+  { "text": "Ayusin ang form validation", "language": "tl" },
+  { "text": "Magdagdag ng user roles", "language": "tl" },
+  { "text": "Gawing mas mabilis ang database", "language": "tl" },
+  { "text": "Maglagay ng auto-save", "language": "tl" },
+  { "text": "Ayusin ang UI responsiveness", "language": "tl" },
+  { "text": "Magdagdag ng analytics", "language": "tl" },
+  { "text": "Ayusin ang search results", "language": "tl" },
+  { "text": "Magdagdag ng keyboard shortcuts", "language": "tl" },
+  { "text": "Ayusin ang layout ng page", "language": "tl" },
+  { "text": "Payagan ang pag-bookmark", "language": "tl" },
+  { "text": "Gawing mas stable ang sistema", "language": "tl" },
+
+  { "text": "Padaliun an paggamit kan systema", "language": "bcl" },
+  { "text": "Magdugang nin dark mode", "language": "bcl" },
+  { "text": "Pabilison an pag-load kan website", "language": "bcl" },
+  { "text": "Ayuson an itsura kan dashboard", "language": "bcl" },
+  { "text": "Magdugang nin notipikasyon", "language": "bcl" },
+  { "text": "Padaliun an paghanap nin impormasyon", "language": "bcl" },
+  { "text": "Magbutang nin search bar", "language": "bcl" },
+  { "text": "Ayuson an pag-login kan user", "language": "bcl" },
+  { "text": "Magbutang nin tutorial", "language": "bcl" },
+  { "text": "Gawing mas secure an mga account", "language": "bcl" },
+  { "text": "Ayuson an mobile view", "language": "bcl" },
+  { "text": "Magdugang nin help section", "language": "bcl" },
+  { "text": "Padaliun an pag-fill out kan form", "language": "bcl" },
+  { "text": "Ayuson an layout kan page", "language": "bcl" },
+  { "text": "Magdugang nin feedback feature", "language": "bcl" },
+  { "text": "Ayuson an error messages", "language": "bcl" },
+  { "text": "Magdugang nin profile settings", "language": "bcl" },
+  { "text": "Padaliun an pag-navigate sa systema", "language": "bcl" },
+  { "text": "Magdugang nin activity logs", "language": "bcl" },
+  { "text": "Ayuson an overall design kan app", "language": "bcl" },
+  { "text": "Magdugang nin email notifications", "language": "bcl" },
+  { "text": "Pahusayon an data privacy", "language": "bcl" },
+  { "text": "Magbutang nin two-factor authentication", "language": "bcl" },
+  { "text": "Ayuson an form validation", "language": "bcl" },
+  { "text": "Magdugang nin user roles", "language": "bcl" },
+  { "text": "Pabilison an database", "language": "bcl" },
+  { "text": "Magbutang nin auto-save", "language": "bcl" },
+  { "text": "Ayuson an UI responsiveness", "language": "bcl" },
+  { "text": "Magdugang nin analytics", "language": "bcl" },
+  { "text": "Ayuson an search results", "language": "bcl" },
+  { "text": "Magdugang nin keyboard shortcuts", "language": "bcl" },
+  { "text": "Ayuson an page layout", "language": "bcl" },
+  { "text": "Magdugang nin bookmarks", "language": "bcl" },
+  { "text": "Gawing mas stable an systema", "language": "bcl" },
+  {"text": "Improve the user interface for easier navigation", "language": "en"},
+  {"text": "I-improve ang user interface para mas madaling mag-navigate", "language": "tl"},
+  {"text": "I-improve an interface nin user para mas madali an pag-navigate", "language": "bcl"},
+
+  {"text": "Add dark mode option", "language": "en"},
+  {"text": "Magdagdag ng dark mode option", "language": "tl"},
+  {"text": "Magdagdag nin dark mode na opsyon", "language": "bcl"},
+
+  {"text": "Make the buttons larger and easier to tap", "language": "en"},
+  {"text": "Palakihin ang mga button para madaling tap-in", "language": "tl"},
+  {"text": "Padakulaon an mga button tanganing mas madali tap-on", "language": "bcl"},
+
+  {"text": "Fix the frequent app crashes", "language": "en"},
+  {"text": "Ayusin ang madalas na pag-crash ng app", "language": "tl"},
+  {"text": "Ayuson an madalas na pag-crash kan app", "language": "bcl"},
+
+  {"text": "Add option to change app language", "language": "en"},
+  {"text": "Magdagdag ng opsyon para baguhin ang wika ng app", "language": "tl"},
+  {"text": "Magdagdag nin opsyon na magbago kan tataramon kan app", "language": "bcl"},
+
+  {"text": "Make loading times faster", "language": "en"},
+  {"text": "Pabilisin ang paglo-load", "language": "tl"},
+  {"text": "Pabilison an pagkarga", "language": "bcl"},
+
+  {"text": "Add offline reading / caching support", "language": "en"},
+  {"text": "Magdagdag ng suporta para sa offline reading", "language": "tl"},
+  {"text": "Magdagdag nin suporta para sa offline na pagbasa", "language": "bcl"},
+
+  {"text": "Allow users to adjust text size", "language": "en"},
+  {"text": "Payagan ang pag-adjust ng text size", "language": "tl"},
+  {"text": "Payagan an pag-adjust kan sukol kan text", "language": "bcl"},
+
+  {"text": "Add swipe-to-refresh on main screens", "language": "en"},
+  {"text": "Magdagdag ng swipe-to-refresh sa pangunahing screen", "language": "tl"},
+  {"text": "Magdagdag nin swipe-to-refresh sa principal na screen", "language": "bcl"},
+
+  {"text": "Fix blurry profile pictures", "language": "en"},
+  {"text": "Ayusin ang malabong profile pictures", "language": "tl"},
+  {"text": "Ayuson an malabong mga litrato kan profile", "language": "bcl"},
+
+  {"text": "Add ability to pin important chats or posts", "language": "en"},
+  {"text": "Magdagdag ng kakayahang mag-pin ng mahahalagang chat o post", "language": "tl"},
+  {"text": "Magdagdag nin paagi na mag-pin kan importanteng chat o post", "language": "bcl"},
+
+  {"text": "Improve search result relevance", "language": "en"},
+  {"text": "I-improve ang kaugnayan ng search results", "language": "tl"},
+  {"text": "I-improve an kaugnayan kan mga resulta sa paghahanap", "language": "bcl"},
+
+  {"text": "Add customizable notification settings", "language": "en"},
+  {"text": "Magdagdag ng mas customizable na notification settings", "language": "tl"},
+  {"text": "Magdagdag nin mas ma-customize na setting kan notification", "language": "bcl"},
+
+  {"text": "Enable pinch-to-zoom on images", "language": "en"},
+  {"text": "Payagan ang pinch-to-zoom sa mga larawan", "language": "tl"},
+  {"text": "Payagan an pinch-to-zoom sa mga litrato", "language": "bcl"},
+
+  {"text": "Add vibration feedback on button presses", "language": "en"},
+  {"text": "Magdagdag ng vibration feedback kapag pinindot ang button", "language": "tl"},
+  {"text": "Magdagdag nin vibration feedback pag pinindot an button", "language": "bcl"},
+
+  {"text": "Fix lag when scrolling long feeds", "language": "en"},
+  {"text": "Ayusin ang lag kapag nag-scroll sa mahabang feed", "language": "tl"},
+  {"text": "Ayuson an lag pag nag-scroll sa halabang feed", "language": "bcl"},
+
+  {"text": "Add sorting and filtering options", "language": "en"},
+  {"text": "Magdagdag ng sorting at filtering options", "language": "tl"},
+  {"text": "Magdagdag nin sorting asin filtering na opsyon", "language": "bcl"},
+
+  {"text": "Use more consistent icon designs", "language": "en"},
+  {"text": "Gawing mas consistent ang disenyo ng mga icon", "language": "tl"},
+  {"text": "Gawan nin mas pare-pareho an disenyo kan mga icon", "language": "bcl"},
+
+  {"text": "Add a quick navigation sidebar", "language": "en"},
+  {"text": "Magdagdag ng quick navigation sidebar", "language": "tl"},
+  {"text": "Magdagdag nin mabilis na sidebar para sa navigation", "language": "bcl"},
+
+  {"text": "Increase contrast for better readability", "language": "en"},
+  {"text": "Dagdagan ang contrast para mas madaling basahin", "language": "tl"},
+  {"text": "Dagdagan an contrast tanganing mas madali basahon", "language": "bcl"},
+
+  {"text": "Add voice search feature", "language": "en"},
+  {"text": "Magdagdag ng voice search", "language": "tl"},
+  {"text": "Magdagdag nin paghahanap gamit an boses", "language": "bcl"},
+
+  {"text": "Fix endless login redirect loop", "language": "en"},
+  {"text": "Ayusin ang walang katapusang login redirect", "language": "tl"},
+  {"text": "Ayuson an dae matapos na pag-redirect sa login", "language": "bcl"},
+
+  {"text": "Improve share sheet integration", "language": "en"},
+  {"text": "I-improve ang integration ng share sheet", "language": "tl"},
+  {"text": "I-improve an pagsasama kan share sheet", "language": "bcl"},
+
+  {"text": "Support proper landscape orientation", "language": "en"},
+  {"text": "Suportahan nang maayos ang landscape mode", "language": "tl"},
+  {"text": "Suportahan nang maayos an landscape mode", "language": "bcl"},
+
+  {"text": "Add auto-save for composing posts/messages", "language": "en"},
+  {"text": "Magdagdag ng auto-save kapag nagsusulat ng post o mensahe", "language": "tl"},
+  {"text": "Magdagdag nin auto-save pag nagsusurat kan post o mensahe", "language": "bcl"},
+
+  {"text": "Speed up profile page loading", "language": "en"},
+  {"text": "Pabilisin ang pag-load ng profile page", "language": "tl"},
+  {"text": "Pabilison an pagkarga kan profile page", "language": "bcl"},
+
+  {"text": "Add toggle to hide sensitive content", "language": "en"},
+  {"text": "Magdagdag ng toggle para itago ang sensitive content", "language": "tl"},
+  {"text": "Magdagdag nin toggle na itago an sensitive content", "language": "bcl"},
+
+  {"text": "Make error messages clearer and friendlier", "language": "en"},
+  {"text": "Gawing mas malinaw at friendly ang error messages", "language": "tl"},
+  {"text": "Gawan nin mas malinaw asin friendly an mga error message", "language": "bcl"},
+
+  {"text": "Add home screen widgets", "language": "en"},
+  {"text": "Magdagdag ng widgets sa home screen", "language": "tl"},
+  {"text": "Magdagdag nin mga widget sa home screen", "language": "bcl"},
+
+  {"text": "Fix video buffering / freezing issues", "language": "en"},
+  {"text": "Ayusin ang buffering at pag-freeze ng video", "language": "tl"},
+  {"text": "Ayuson an buffering asin pag-freeze kan video", "language": "bcl"},
+
+  {"text": "Add auto dark/light mode based on time", "language": "en"},
+  {"text": "Magdagdag ng auto dark/light mode base sa oras", "language": "tl"},
+  {"text": "Magdagdag nin auto dark/light mode base sa oras", "language": "bcl"},
+
+  {"text": "Increase touch target size for small buttons", "language": "en"},
+  {"text": "Palakihin ang touch target ng maliliit na button", "language": "tl"},
+  {"text": "Padakulaon an touch target kan mga sadit na button", "language": "bcl"},
+
+  {"text": "Add fingerprint or face unlock option", "language": "en"},
+  {"text": "Magdagdag ng fingerprint o face unlock", "language": "tl"},
+  {"text": "Magdagdag nin fingerprint o face unlock", "language": "bcl"},
+
+  {"text": "Show upload progress bar", "language": "en"},
+  {"text": "Ipakita ang progress bar habang nag-u-upload", "language": "tl"},
+  {"text": "Ipakita an progress bar habang nag-uupload", "language": "bcl"},
+
+  {"text": "Add long-press menu for more actions", "language": "en"},
+  {"text": "Magdagdag ng long-press menu para sa maraming aksyon", "language": "tl"},
+  {"text": "Magdagdag nin long-press menu para sa dakulang aksyon", "language": "bcl"},
+
+  {"text": "Correct inaccurate post timestamps", "language": "en"},
+  {"text": "Ayusin ang maling timestamp ng mga post", "language": "tl"},
+  {"text": "Ayuson an maling timestamp kan mga post", "language": "bcl"},
+
+  {"text": "Allow muting specific words or hashtags", "language": "en"},
+  {"text": "Payagan ang pag-mute ng specific words o hashtags", "language": "tl"},
+  {"text": "Payagan an pag-mute kan partikular na mga tataramon o hashtag", "language": "bcl"},
+
+  {"text": "Improve keyboard avoidance on text input", "language": "en"},
+  {"text": "I-improve ang pag-iwas ng keyboard sa text input", "language": "tl"},
+  {"text": "I-improve an pag-iwas kan keyboard sa text input", "language": "bcl"},
+
+  {"text": "Add prominent floating action button", "language": "en"},
+  {"text": "Magdagdag ng prominenteng floating action button", "language": "tl"},
+  {"text": "Magdagdag nin prominenteng floating action button", "language": "bcl"},
+
+  {"text": "Fix layout issues in landscape mode", "language": "en"},
+  {"text": "Ayusin ang layout problems sa landscape mode", "language": "tl"},
+  {"text": "Ayuson an mga problema sa layout sa landscape mode", "language": "bcl"},
+
+  {"text": "Enable full copy-paste support in all fields", "language": "en"},
+  {"text": "Payagan ang buong copy-paste support sa lahat ng field", "language": "tl"},
+  {"text": "Payagan an kompleto copy-paste sa gabos na field", "language": "bcl"},
+
+  {"text": "Make onboarding screens skippable", "language": "en"},
+  {"text": "Gawing skippable ang onboarding screens", "language": "tl"},
+  {"text": "Gawan nin skippable an mga onboarding screen", "language": "bcl"},
+
+  {"text": "Add dark mode to the website version", "language": "en"},
+  {"text": "Magdagdag ng dark mode sa website version", "language": "tl"},
+  {"text": "Magdagdag nin dark mode sa bersyon kan website", "language": "bcl"},
+
+  {"text": "Fix double-tap like not working consistently", "language": "en"},
+  {"text": "Ayusin ang hindi consistent na double-tap like", "language": "tl"},
+  {"text": "Ayuson an dae consistent na double-tap like", "language": "bcl"},
+
+  {"text": "Add option to disable auto-playing videos", "language": "en"},
+  {"text": "Magdagdag ng opsyon para i-disable ang auto-play videos", "language": "tl"},
+  {"text": "Magdagdag nin opsyon na i-disable an auto-play kan mga video", "language": "bcl"},
+
+  {"text": "Use better font anti-aliasing / rendering", "language": "en"},
+  {"text": "Gumamit ng mas magandang font rendering", "language": "tl"},
+  {"text": "Gamiton an mas marig-on na pag-render kan font", "language": "bcl"},
+
+  {"text": "Add quick emoji reaction bar", "language": "en"},
+  {"text": "Magdagdag ng quick emoji reaction bar", "language": "tl"},
+  {"text": "Magdagdag nin mabilis na emoji reaction bar", "language": "bcl"},
+
+  {"text": "Show online status / last seen", "language": "en"},
+  {"text": "Ipakita ang online status o last seen", "language": "tl"},
+  {"text": "Ipakita an online status o katapusan na pagkikita", "language": "bcl"},
+
+  {"text": "Add read receipts toggle", "language": "en"},
+  {"text": "Magdagdag ng toggle para sa read receipts", "language": "tl"},
+  {"text": "Magdagdag nin toggle para sa read receipts", "language": "bcl"},
+
+  {"text": "Improve group chat member management", "language": "en"},
+  {"text": "I-improve ang pamamahala ng miyembro sa group chat", "language": "tl"},
+  {"text": "I-improve an pamamahala kan mga miyembro sa group chat", "language": "bcl"},
+
+  {"text": "Add message edit feature with time limit", "language": "en"},
+  {"text": "Magdagdag ng kakayahang mag-edit ng mensahe na may time limit", "language": "tl"},
+  {"text": "Magdagdag nin paagi na mag-edit kan mensahe na igwa nin time limit", "language": "bcl"},
+
+  {"text": "Add message delete for everyone option", "language": "en"},
+  {"text": "Magdagdag ng delete for everyone sa mensahe", "language": "tl"},
+  {"text": "Magdagdag nin delete for everyone sa mensahe", "language": "bcl"},
+
+  {"text": "Support threaded replies in comments", "language": "en"},
+  {"text": "Suportahan ang threaded replies sa comments", "language": "tl"},
+  {"text": "Suportahan an threaded replies sa mga komento", "language": "bcl"},
+
+  {"text": "Add spoiler tag / blur for text", "language": "en"},
+  {"text": "Magdagdag ng spoiler tag o blur para sa text", "language": "tl"},
+  {"text": "Magdagdag nin spoiler tag o blur para sa text", "language": "bcl"},
+
+  {"text": "Improve media preview quality", "language": "en"},
+  {"text": "I-improve ang kalidad ng media preview", "language": "tl"},
+  {"text": "I-improve an kalidad kan preview kan media", "language": "bcl"},
+
+  {"text": "Add option to download media", "language": "en"},
+  {"text": "Magdagdag ng opsyon para i-download ang media", "language": "tl"},
+  {"text": "Magdagdag nin opsyon na i-download an media", "language": "bcl"},
+
+  {"text": "Fix incorrect like / reaction count", "language": "en"},
+  {"text": "Ayusin ang maling bilang ng likes o reactions", "language": "tl"},
+  {"text": "Ayuson an maling bilang kan likes o reactions", "language": "bcl"},
+
+  {"text": "Add block and report buttons in more places", "language": "en"},
+  {"text": "Magdagdag ng block at report button sa maraming lugar", "language": "tl"},
+  {"text": "Magdagdag nin block asin report button sa dakulang lugar", "language": "bcl"},
+
+  {"text": "Improve accessibility (screen reader support)", "language": "en"},
+  {"text": "I-improve ang accessibility (suporta sa screen reader)", "language": "tl"},
+  {"text": "I-improve an accessibility (suporta sa screen reader)", "language": "bcl"},
+
+  {"text": "Add high contrast mode", "language": "en"},
+  {"text": "Magdagdag ng high contrast mode", "language": "tl"},
+  {"text": "Magdagdag nin high contrast mode", "language": "bcl"},
+
+  {"text": "Support larger display font sizes", "language": "en"},
+  {"text": "Suportahan ang mas malaking font size", "language": "tl"},
+  {"text": "Suportahan an mas dakulang sukol kan font", "language": "bcl"},
+
+  {"text": "Add color blind friendly palettes", "language": "en"},
+  {"text": "Magdagdag ng color blind friendly na color palette", "language": "tl"},
+  {"text": "Magdagdag nin color palette na friendly sa color blind", "language": "bcl"},
+
+  {"text": "Fix slow image loading in chat", "language": "en"},
+  {"text": "Ayusin ang mabagal na pag-load ng larawan sa chat", "language": "tl"},
+  {"text": "Ayuson an hinay na pagkarga kan litrato sa chat", "language": "bcl"},
+
+  {"text": "Add GIF search and sending", "language": "en"},
+  {"text": "Magdagdag ng paghahanap at pagpapadala ng GIF", "language": "tl"},
+  {"text": "Magdagdag nin paghahanap asin pagpadara kan GIF", "language": "bcl"},
+
+  {"text": "Add sticker pack support", "language": "en"},
+  {"text": "Magdagdag ng suporta para sa sticker packs", "language": "tl"},
+  {"text": "Magdagdag nin suporta para sa mga sticker pack", "language": "bcl"},
+
+  {"text": "Improve typing indicator reliability", "language": "en"},
+  {"text": "I-improve ang pagiging maaasahan ng typing indicator", "language": "tl"},
+  {"text": "I-improve an pagiging maaasahan kan typing indicator", "language": "bcl"},
+
+  {"text": "Add voice message recording", "language": "en"},
+  {"text": "Magdagdag ng pag-record ng voice message", "language": "tl"},
+  {"text": "Magdagdag nin pagrekord kan voice message", "language": "bcl"},
+
+  {"text": "Add video message / short clip sending", "language": "en"},
+  {"text": "Magdagdag ng pagpapadala ng video message o short clip", "language": "tl"},
+  {"text": "Magdagdag nin pagpadara kan video message o halipot na clip", "language": "bcl"},
+
+  {"text": "Improve spam / scam detection", "language": "en"},
+  {"text": "I-improve ang pag-detect ng spam o scam", "language": "tl"},
+  {"text": "I-improve an pag-detect kan spam o scam", "language": "bcl"},
+
+  {"text": "Add two-step verification option", "language": "en"},
+  {"text": "Magdagdag ng two-step verification", "language": "tl"},
+  {"text": "Magdagdag nin two-step verification", "language": "bcl"},
+
+  {"text": "Show data usage statistics", "language": "en"},
+  {"text": "Ipakita ang statistics ng data usage", "language": "tl"},
+  {"text": "Ipakita an statistics kan paggamit kan data", "language": "bcl"},
+
+  {"text": "Add low data mode", "language": "en"},
+  {"text": "Magdagdag ng low data mode", "language": "tl"},
+  {"text": "Magdagdag nin low data mode", "language": "bcl"},
+
+  {"text": "Improve battery optimization", "language": "en"},
+  {"text": "I-improve ang battery optimization", "language": "tl"},
+  {"text": "I-improve an optimisasyon kan baterya", "language": "bcl"},
+
+  {"text": "Add scheduled messages", "language": "en"},
+  {"text": "Magdagdag ng scheduled messages", "language": "tl"},
+  {"text": "Magdagdag nin mga mensahe na naka-schedule", "language": "bcl"},
+
+  {"text": "Add location sharing in chat", "language": "en"},
+  {"text": "Magdagdag ng pagbabahagi ng location sa chat", "language": "tl"},
+  {"text": "Magdagdag nin pagbabahagi kan lokasyon sa chat", "language": "bcl"},
+
+  {"text": "Add contact sharing feature", "language": "en"},
+  {"text": "Magdagdag ng pagbabahagi ng contact", "language": "tl"},
+  {"text": "Magdagdag nin pagbabahagi kan contact", "language": "bcl"},
+
+  {"text": "Improve file sharing limit and speed", "language": "en"},
+  {"text": "I-improve ang limit at bilis ng pagbabahagi ng file", "language": "tl"},
+  {"text": "I-improve an limit asin bilis kan pagbabahagi kan file", "language": "bcl"},
+
+  {"text": "Add QR code for quick profile sharing", "language": "en"},
+  {"text": "Magdagdag ng QR code para sa mabilis na pag-share ng profile", "language": "tl"},
+  {"text": "Magdagdag nin QR code para sa mabilis na pag-share kan profile", "language": "bcl"},
+
+  {"text": "Add status / story feature", "language": "en"},
+  {"text": "Magdagdag ng status o story feature", "language": "tl"},
+  {"text": "Magdagdag nin status o story feature", "language": "bcl"},
+
+  {"text": "Improve story privacy controls", "language": "en"},
+  {"text": "I-improve ang privacy controls sa stories", "language": "tl"},
+  {"text": "I-improve an mga kontrol sa privacy kan mga story", "language": "bcl"},
+
+  {"text": "Add highlight / archive for stories", "language": "en"},
+  {"text": "Magdagdag ng highlight o archive para sa stories", "language": "tl"},
+  {"text": "Magdagdag nin highlight o archive para sa mga story", "language": "bcl"},
+
+  {"text": "Add polls in posts or groups", "language": "en"},
+  {"text": "Magdagdag ng polls sa posts o groups", "language": "tl"},
+  {"text": "Magdagdag nin polls sa mga post o grupo", "language": "bcl"},
+
+  {"text": "Add quiz or question sticker", "language": "en"},
+  {"text": "Magdagdag ng quiz o question sticker", "language": "tl"},
+  {"text": "Magdagdag nin quiz o question sticker", "language": "bcl"},
+
+  {"text": "Improve moderation tools for group admins", "language": "en"},
+  {"text": "I-improve ang moderation tools para sa group admins", "language": "tl"},
+  {"text": "I-improve an mga moderation tool para sa admin kan grupo", "language": "bcl"},
+
+  {"text": "Add slow mode for group chats", "language": "en"},
+  {"text": "Magdagdag ng slow mode sa group chats", "language": "tl"},
+  {"text": "Magdagdag nin slow mode sa group chat", "language": "bcl"},
+
+  {"text": "Add welcome message for new group members", "language": "en"},
+  {"text": "Magdagdag ng welcome message para sa bagong miyembro ng grupo", "language": "tl"},
+  {"text": "Magdagdag nin welcome message para sa bag-ong miyembro kan grupo", "language": "bcl"},
+
+  {"text": "Add pinned announcements in groups", "language": "en"},
+  {"text": "Magdagdag ng pinned announcements sa groups", "language": "tl"},
+  {"text": "Magdagdag nin pinned announcements sa grupo", "language": "bcl"},
+
+  {"text": "Improve video call quality and stability", "language": "en"},
+  {"text": "I-improve ang kalidad at stability ng video call", "language": "tl"},
+  {"text": "I-improve an kalidad asin stability kan video call", "language": "bcl"},
+
+  {"text": "Add screen sharing in video calls", "language": "en"},
+  {"text": "Magdagdag ng screen sharing sa video calls", "language": "tl"},
+  {"text": "Magdagdag nin screen sharing sa video call", "language": "bcl"},
+
+  {"text": "Add virtual background option", "language": "en"},
+  {"text": "Magdagdag ng virtual background", "language": "tl"},
+  {"text": "Magdagdag nin virtual background", "language": "bcl"},
+
+  {"text": "Add reaction during video call", "language": "en"},
+  {"text": "Magdagdag ng reaction habang nasa video call", "language": "tl"},
+  {"text": "Magdagdag nin reaction habang nasa video call", "language": "bcl"},
+
+  {"text": "Improve push notification delivery rate", "language": "en"},
+  {"text": "I-improve ang delivery rate ng push notifications", "language": "tl"},
+  {"text": "I-improve an delivery rate kan push notifications", "language": "bcl"},
+
+  {"text": "Add notification categories", "language": "en"},
+  {"text": "Magdagdag ng notification categories", "language": "tl"},
+  {"text": "Magdagdag nin mga kategorya kan notification", "language": "bcl"},
+
+  {"text": "Add quiet hours / do not disturb schedule", "language": "en"},
+  {"text": "Magdagdag ng quiet hours o do not disturb schedule", "language": "tl"},
+  {"text": "Magdagdag nin quiet hours o iskedyul kan do not disturb", "language": "bcl"},
+
+  {"text": "Add in-app feedback button", "language": "en"},
+  {"text": "Magdagdag ng in-app feedback button", "language": "tl"},
+  {"text": "Magdagdag nin button para sa feedback sa loob kan app", "language": "bcl"},
+
+  {"text": "Add rate us prompt after positive actions", "language": "en"},
+  {"text": "Magdagdag ng rate us prompt pagkatapos ng positive actions", "language": "tl"},
+  {"text": "Magdagdag nin rate us prompt pagkatapos kan positibong aksyon", "language": "bcl"},
+
+  {"text": "Improve first-time user experience", "language": "en"},
+  {"text": "I-improve ang first-time user experience", "language": "tl"},
+  {"text": "I-improve an unaikot na karanasan kan user", "language": "bcl"},
+
+  {"text": "Add tutorial or tips carousel on first launch", "language": "en"},
+  {"text": "Magdagdag ng tutorial o tips carousel sa unang pagbukas", "language": "tl"},
+  {"text": "Magdagdag nin tutorial o tips carousel sa enot na pagbukas", "language": "bcl"},
+
+  {"text": "Add what’s new section after updates", "language": "en"},
+  {"text": "Magdagdag ng what’s new section pagkatapos ng updates", "language": "tl"},
+  {"text": "Magdagdag nin what’s new section pagkatapos kan mga update", "language": "bcl"},
+
+  {"text": "Improve update changelog visibility", "language": "en"},
+  {"text": "I-improve ang visibility ng update changelog", "language": "tl"},
+  {"text": "I-improve an visibility kan changelog kan update", "language": "bcl"},
+
+  {"text": "Add beta / early access program invitation", "language": "en"},
+  {"text": "Magdagdag ng imbitasyon sa beta o early access program", "language": "tl"},
+  {"text": "Magdagdag nin imbitasyon sa beta o early access program", "language": "bcl"},
+
+  {"text": "Add community forum or help center link", "language": "en"},
+  {"text": "Magdagdag ng link sa community forum o help center", "language": "tl"},
+  {"text": "Magdagdag nin link sa community forum o help center", "language": "bcl"}
+]

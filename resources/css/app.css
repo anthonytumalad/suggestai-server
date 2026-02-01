@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Google+Sans:ital,opsz,wght@0,17..18,400..700;1,17..18,400..700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
 @import 'tailwindcss';
 
 @source '../../vendor/laravel/framework/src/Illuminate/Pagination/resources/views/*.blade.php';
@@ -6,6 +8,27 @@
 @source '../**/*.js';
 
 @theme {
-    --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
-        'Segoe UI Symbol', 'Noto Color Emoji';
+    --font-sans: "Inter", sans-serif;
+    --font-brand: "Google Sans", sans-serif;
+    --font-system: "Roboto", sans-serif;
+
+    --color-mb-base: #f1f5f9;
+    --color-fg-base: #293241;
+    --color-border: #CBD5E1;
+
+    --color-primary: #0EA5E9;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--font-brand);
+    background-color: var(--color-mb-base);
+    color: var(--color-fg-base);
+    letter-spacing: 0.25 rem;
+    min-height: 100vh;
 }
